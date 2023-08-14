@@ -2,13 +2,15 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
+2. [ Content ](#content)
+3. [Technologies](#technologies)
    
 ### General Info
 ***
-This project contains a series of exercises in the Kotlin language, exercises on operators, conditionals, and cycles using the basic concepts of this language to practice and deepen the syntax.
+In this project we will find a series of exercises and tests based on the [Jetpack Compose](https://developer.android.com/jetpack/compose/tutorial?hl=es-419) tutorial.
 
-The Main file that contains the exercises is located in the src / main / kotlin / Main folder, there you will find all the exercises put into practice, I hope it will be helpful.
+## Content
+
 
 ## Technologies
 ***
