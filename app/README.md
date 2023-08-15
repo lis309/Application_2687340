@@ -20,5 +20,5 @@ Use the following integrated development environment to build my project:
 ![](https://github.com/lis309/Application_2687340/assets/127986044/91b5becf-1b50-4e36-a138-8fe18751bfe4)
 
 <kbd>
-  <img src="[/images/picture.jpg](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg" />
+  <img src="https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg" />
 </kbd>
